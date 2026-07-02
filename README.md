@@ -1,4 +1,4 @@
-# Nebula Lab Creators — Sitio web (v2)
+# Nebula Lab Creators — Sitio web (v2) 2026
 
 Versión más reciente del sitio, en una sola página (`index.html`), lista para
 GitHub Pages. Ya trae tus imágenes reales cargadas en `assets/img/` — revisé
